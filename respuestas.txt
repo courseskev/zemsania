@@ -1,0 +1,8 @@
+1. ¿Qué es PL/SQL y cuál es su propósito en el desarrollo de aplicaciones?
+Respuesta: PL/SQL está diseñado para trabajar específicamente con la base de datos Oracle y se utiliza principalmente para escribir procedimientos almacenados, funciones, disparadores (triggers), paquetes y otros programas que se ejecutan en el servidor de bases de datos. El propósito principal de PL/SQL en el desarrollo de aplicaciones es proporcionar una forma poderosa y eficiente de manejar la lógica empresarial y las operaciones de manipulación de datos en la base de datos Oracle.
+
+2. Explique la diferencia entre un procedimiento almacenado y una función en PL/SQL.
+Respuesta: Los procedimientos se utilizan para realizar acciones o tareas, mientras que las funciones se utilizan para realizar cálculos u operaciones y devolver un resultado específico.
+
+3. ¿Qué es una excepción en PL/SQL y cómo se manejan?
+Respuesta: El manejo de excepciones en PL/SQL permite controlar y manejar errores de manera ordenada, evitando que los errores inesperados interrumpan la ejecución del programa y proporcionando la oportunidad de tomar medidas apropiadas en respuesta a condiciones excepcionales.
